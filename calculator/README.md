@@ -1,16 +1,44 @@
-# calculator
+# Flutter Calculator ➕
 
-A new Flutter project.
+<h1 align="center">
+  <img 
+    src="img/video.gif"
+  />
+</h1>
 
-## Getting Started
+## 🚀 About
 
-This project is a starting point for a Flutter application.
+This is a calculator app, bult with flutter and Dart. It's simple, but hope you like it!
 
-A few resources to get you started if this is your first Flutter project:
+### 📋 Precondition
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project needs Flutter. If you do not have it installed, just follow [THIS](https://flutter.dev/docs/get-started/install) link and install.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 👨‍💻 How to Setup
+
+```bash
+  # Clone the project
+  $ git clone https://github.com/Levis44/Flutter-Calculator.git
+```
+
+To execute the project, just run this code this commands:
+
+```sh
+  $ cd Flutter-Calculator # acces the folder
+  $ cd calculator # acces the folder
+  $ npm init -y # inicialize the package.json
+  $ flutter run --no-sound-null-safety # run app
+```
+
+## 🛠️ Tools
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/guides)
+
+## 📝 License
+
+This project is under the MIT license. See the file [LICENSE.md](LICENSE) for more details.
+
+---
+
+<p align="center">Done by Levi Bernardelli Ciarrocchi ✌🏼</p>
