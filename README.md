@@ -26,7 +26,6 @@ To execute the project, just run this code this commands:
 ```sh
   $ cd Flutter-Calculator # acces the folder
   $ cd calculator # acces the folder
-  $ npm init -y # inicialize the package.json
   $ flutter run --no-sound-null-safety # run app
 ```
 
